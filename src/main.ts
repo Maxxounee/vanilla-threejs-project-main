@@ -1,3 +1,4 @@
+/** ОРИГИНАЛЬНЫЙ СКРИПТ. БЕЗ ИЗМЕНЕНИЙ */
 import './style.css'
 import * as THREE from 'three'
 
@@ -5,14 +6,7 @@ import * as THREE from 'three'
  * Camera
  */
 
-const camera = new THREE.PerspectiveCamera(
-  70,
-  window.innerWidth / window.innerHeight,
-  10,
-  200,
-)
 
-camera.position.z = 50
 
 /**
  * Scene
