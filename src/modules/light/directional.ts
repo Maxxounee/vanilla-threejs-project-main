@@ -8,7 +8,7 @@ export default class Directional {
     }
 
     init(opt: {} = {}) {
-        const directionalLight = new THREE.DirectionalLight('#ff0000', 20);
+        const directionalLight = new THREE.DirectionalLight('#ff0000', 1);
         directionalLight.position.y = 20
         directionalLight.position.z = 20
 

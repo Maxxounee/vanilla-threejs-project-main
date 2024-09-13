@@ -98,7 +98,7 @@ function setHouseControls() {
         const {x: px, y: py, z: pz} = values.position;
 
         house.rotation.set(rx * Math.PI, ry * Math.PI, rz * Math.PI);
-        house.position.set(px * 10, py * -5, pz * 16);
+        house.position.set(px * 10, py * -5, pz * 30);
     })
 }
 
@@ -110,7 +110,7 @@ function removeAnimationDataFromLocalStorage() {
 
 async function main() {
     // removeAnimationDataFromLocalStorage();
-    
+
     window.addEventListener('resize', resizeHandler, false);
     tick();
     await addHouse();

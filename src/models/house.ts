@@ -14,6 +14,10 @@ export default class House {
 
             loader.load('src/assets/models/house/house.gltf', (gltf) => {
                 const house = gltf.scene;
+                console.log(house)
+                house.children[12].material = new THREE.MeshStandardMaterial({color: '#1be804'});
+                house.children[12].material.metalness = 0.69;
+                // house.children[12].material.color = {}
                 house.position.z = 20;
                 house.rotation.y = 0.3;
                 house.rotation.x = 0.3;
@@ -26,3 +30,5 @@ export default class House {
         return this.instance;
     }
 }
+
+/**/
