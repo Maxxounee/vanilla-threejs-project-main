@@ -1,0 +1,552 @@
+{
+  "sheetsById": {
+    "Анимируемая сцена": {
+      "staticOverrides": {
+        "byObject": {
+          "Torus Knot": {
+            "rotation": {
+              "x": 2.220446049250313e-16,
+              "y": -2,
+              "z": 2
+            }
+          },
+          "Объект Torus mesh": {
+            "rotation": {
+              "x": -0.9620853970387777
+            }
+          },
+          "Объект House mesh": {
+            "rotation": {
+              "x": 0.20231385345594863,
+              "y": 0.48116285968555295,
+              "z": 0
+            }
+          }
+        }
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 10,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "Объект Torus mesh": {
+            "trackData": {
+              "Q02s7ljV5f": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект Torus mesh:[\"rotation\",\"x\"]",
+                "keyframes": [
+                  {
+                    "id": "KPGt5OzT6h",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.3420413280193148,
+                      2.5542481138545954
+                    ],
+                    "type": "bezier",
+                    "value": 0
+                  },
+                  {
+                    "id": "MvLoKzRjQv",
+                    "position": 2.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 10
+                  },
+                  {
+                    "id": "JAxXKYpbIR",
+                    "position": 5.633,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.4050632911392386
+                  },
+                  {
+                    "id": "uyRtpp63Uu",
+                    "position": 6.767,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.4050632911392386
+                  }
+                ]
+              },
+              "uCR40XDcVl": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект Torus mesh:[\"rotation\",\"y\"]",
+                "keyframes": [
+                  {
+                    "id": "c470UL_uIP",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0
+                  },
+                  {
+                    "id": "OqzQzcHYHB",
+                    "position": 2.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1
+                  },
+                  {
+                    "id": "2Mdymo0oaD",
+                    "position": 5.633,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.2911392405063298
+                  }
+                ]
+              },
+              "hb4MaCIppz": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект Torus mesh:[\"rotation\",\"z\"]",
+                "keyframes": [
+                  {
+                    "id": "tsqtstMbhq",
+                    "position": 5.633,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.8734177215189876
+                  }
+                ]
+              },
+              "VlVxQdf659": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект Torus mesh:[\"position\",\"x\"]",
+                "keyframes": [
+                  {
+                    "id": "p6XpXQXlH2",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.12637199644022618
+                  },
+                  {
+                    "id": "ERIAUtgwiU",
+                    "position": 1.533,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -2
+                  },
+                  {
+                    "id": "wCuSOdEwh7",
+                    "position": 2.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 2
+                  },
+                  {
+                    "id": "Ng5peJn5VD",
+                    "position": 3.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.6579649955502822
+                  },
+                  {
+                    "id": "VCo9_OpzNB",
+                    "position": 5.633,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -2
+                  }
+                ]
+              },
+              "QwpV9fF-zM": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект Torus mesh:[\"position\",\"y\"]",
+                "keyframes": [
+                  {
+                    "id": "e8VbkiuHic",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.1773954316226638
+                  },
+                  {
+                    "id": "CuwtQn7QgI",
+                    "position": 1.533,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.8098487095817263
+                  },
+                  {
+                    "id": "d3qUHamnBh",
+                    "position": 5.633,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -2
+                  }
+                ]
+              },
+              "VktJppXUW6": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект Torus mesh:[\"position\",\"z\"]",
+                "keyframes": [
+                  {
+                    "id": "c4wL924mbH",
+                    "position": 1.533,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.8098487095817266
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"rotation\",\"x\"]": "Q02s7ljV5f",
+              "[\"rotation\",\"y\"]": "uCR40XDcVl",
+              "[\"rotation\",\"z\"]": "hb4MaCIppz",
+              "[\"position\",\"x\"]": "VlVxQdf659",
+              "[\"position\",\"y\"]": "QwpV9fF-zM",
+              "[\"position\",\"z\"]": "VktJppXUW6"
+            }
+          },
+          "Объект House mesh": {
+            "trackData": {
+              "Ho5HaKAiAi": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект House mesh:[\"position\",\"x\"]",
+                "keyframes": [
+                  {
+                    "id": "NZPycF9b8O",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 10
+                  },
+                  {
+                    "id": "NpPEOH21Rf",
+                    "position": 1.533,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -2
+                  },
+                  {
+                    "id": "mq1ylLwztI",
+                    "position": 2.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -2
+                  },
+                  {
+                    "id": "nKvHm-mw56",
+                    "position": 4.467,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.03686433797945163
+                  },
+                  {
+                    "id": "kg-Jvjzkcm",
+                    "position": 5.633,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.05043013942450328
+                  }
+                ]
+              },
+              "uf9B04TaUg": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект House mesh:[\"position\",\"y\"]",
+                "keyframes": [
+                  {
+                    "id": "wJpF3aCGXD",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.3
+                  },
+                  {
+                    "id": "g4GJreBam-",
+                    "position": 1.533,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -2
+                  },
+                  {
+                    "id": "z_g7bgIYTI",
+                    "position": 4.467,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.19240110782499717
+                  },
+                  {
+                    "id": "JJPp-7ZeYW",
+                    "position": 5.633,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.43013942450311504
+                  }
+                ]
+              },
+              "NRGUbCLKM6": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект House mesh:[\"position\",\"z\"]",
+                "keyframes": [
+                  {
+                    "id": "OFDe0yR8hc",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0
+                  },
+                  {
+                    "id": "8CigRfpR7o",
+                    "position": 4.467,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.34202964391329493
+                  },
+                  {
+                    "id": "amdegzd_v0",
+                    "position": 5.633,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 2
+                  }
+                ]
+              },
+              "wTNQqxuepc": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект House mesh:[\"rotation\",\"x\"]",
+                "keyframes": [
+                  {
+                    "id": "G0_OIV-Zj_",
+                    "position": 6.767,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.27825571047167097
+                  }
+                ]
+              },
+              "CssWEw4I_V": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект House mesh:[\"rotation\",\"y\"]",
+                "keyframes": [
+                  {
+                    "id": "Eis76X9kOd",
+                    "position": 6.767,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.7089884307327199
+                  }
+                ]
+              },
+              "dNJ1YkoVeX": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Объект House mesh:[\"rotation\",\"z\"]",
+                "keyframes": [
+                  {
+                    "id": "QRD3GJzwei",
+                    "position": 6.767,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.07594185701572237
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"position\",\"x\"]": "Ho5HaKAiAi",
+              "[\"position\",\"y\"]": "uf9B04TaUg",
+              "[\"position\",\"z\"]": "NRGUbCLKM6",
+              "[\"rotation\",\"x\"]": "wTNQqxuepc",
+              "[\"rotation\",\"y\"]": "CssWEw4I_V",
+              "[\"rotation\",\"z\"]": "dNJ1YkoVeX"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "IHsDsdMzvbMa8d5C"
+  ]
+}

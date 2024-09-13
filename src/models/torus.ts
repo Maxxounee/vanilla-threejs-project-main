@@ -8,7 +8,7 @@ export default class Torus {
     }
 
     init(opt: {} = {}) {
-        const geometry = new THREE.TorusKnotGeometry(10, 3, 300, 16)
+        const geometry = new THREE.TorusKnotGeometry(5, 1, 300, 5)
         const material = new THREE.MeshStandardMaterial({color: '#f00'})
         material.color = new THREE.Color('#049ef4')
         material.roughness = 0.5
